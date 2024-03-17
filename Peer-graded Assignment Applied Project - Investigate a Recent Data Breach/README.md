@@ -1,6 +1,38 @@
-# Applied-Project-Data-Breaches
+# Cybersecurity Capstone: Breach Response Case Studies
 
 Peer-graded Assignment: Applied Project - Investigate a Recent Data Breach
+
+## Project Overview
+
+The Cybersecurity Capstone: Breach Response Case Studies project involves the analysis of a real-world data breach incident. Participants select a company that has experienced a data breach and conduct a thorough analysis of the incident. This includes examining the type of attack, attack timeline, vulnerable systems, missed opportunities, and ultimately creating a report using a provided template.
+
+## Skills Demonstrated
+
+- **Computer Security Incident Management**: Handling and managing computer security incidents effectively.
+- **Cybersecurity**: Understanding and implementing cybersecurity measures to prevent and respond to breaches.
+- **Breach (Security Exploit)**: Analyzing security breaches and understanding their impact.
+- **Security Analyst**: Applying analytical skills to assess and respond to security incidents.
+- **Cyber Attack**: Identifying and analyzing cyber attacks to mitigate their effects.
+
+## Tools Used
+
+- **PowerPoint**: Utilized for creating reports and presentations to communicate the findings of the breach analysis effectively.
+
+## Summary
+
+This project provides an opportunity to showcase proficiency in cybersecurity incident management and analysis. By examining real-world breach scenarios, participants gain valuable insights into the tactics used by attackers, vulnerabilities in systems, and the importance of proactive security measures.
+
+## Solution
+
+The project demonstrates a deep understanding of cybersecurity principles and incident response techniques. By analyzing the selected breach case study, participants showcase their ability to assess security incidents, identify weaknesses, and propose remediation strategies. This not only highlights technical skills but also emphasizes critical thinking and problem-solving abilities.
+
+## Approach
+
+Participants approach the project by selecting a relevant and recent data breach case study. They meticulously analyze the details of the breach, including the attack vector, timeline, affected systems, and potential mitigation measures. Using the provided template, they organize their findings into a comprehensive report, outlining key insights and recommendations for improving cybersecurity posture.
+
+## Project Link(s)
+
+- [Applied Project: Attack Case Study Report](https://coursera-assessments.s3.amazonaws.com/assessments/1710671929220/b6c8a1a7-1aae-47b7-b190-f72305701bd0/Hyadw_1dQT-Kd9hj9ei2SQ_11b0eb0555de41119bf22eca96113ff1_Applied-Project_Attack-Case-Study.pdf)
 
 ## Reference Links
 
